@@ -9,6 +9,6 @@ Specifically, users can:<br/>
 5. Enroll students for classes.<br/>
 6. View and add student grades for a class, and obtain a report of all the students enrolled in a class and their grades in table format.<br/>
 <b>*</b>The record fields shown to the user are obtained by reading table metadata from the database, allowing for tables to
-be changed without breaking the GUI.
+be changed without breaking the GUI. <b/>
 <b>NOTE:</b> The necessary information to connect to the server, contained in a .properties file, is not included for security reasons. The keystore and truststore are also not contained. Because of this, the GUI cannot connect to the server. <br/>
 
